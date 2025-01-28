@@ -33,4 +33,4 @@ Este é um projeto simples em JavaScript que permite ao usuário adicionar nomes
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/DEVNataCRF/Challenge-Alura-AmigoSecreto.git
